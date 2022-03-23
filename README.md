@@ -12,7 +12,7 @@ Jason Jones LaTex Resume is a resume created with OverLeaf in Latex
 
 ## Introduction <a name="Introduction"></a> <br>
 
-Jason Jones LaTex Resume is a new resume designed specifically for internship applications in the Computer Science, Software Engineering, and Data Science fields.
+Jason Jones LaTex Resume is my new resume designed specifically for internship applications in the Computer Science, Software Engineering, and Data Science fields.
 The objective was to create a single-column resume to showcase skills and project experience over work experience. The goal is to polish this resume for the purpose 
 of gaining a professional internship in the tech industry. 
 
